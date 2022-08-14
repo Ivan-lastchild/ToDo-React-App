@@ -1,0 +1,11 @@
+li{
+    list-style-type: none;
+    background-color: #ffff00;
+    margin: 5px 0;
+    padding: .5em;
+    cursor: pointer;
+}
+
+button {
+    margin-bottom: 10px;
+}

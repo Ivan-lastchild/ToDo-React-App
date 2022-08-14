@@ -1,0 +1,16 @@
+.todo {
+    max-width: 800px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid gray;
+    border-radius: 1em;
+    padding: 20px 10px;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+
